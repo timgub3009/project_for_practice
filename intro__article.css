@@ -1,0 +1,5 @@
+.intro__article {
+    display: grid;
+    grid-template-columns: 720px 1fr;
+    grid-template-rows: auto;
+}

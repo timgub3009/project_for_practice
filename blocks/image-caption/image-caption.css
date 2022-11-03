@@ -7,3 +7,16 @@
     text-transform: uppercase;
     margin-bottom: 18px;
 }
+
+@media screen and (max-width: 999px) {
+  .image-caption {
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .image-caption {
+    line-height: 1;
+    font-size: 8px;
+  }
+}

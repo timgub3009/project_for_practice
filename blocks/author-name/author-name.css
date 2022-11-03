@@ -6,3 +6,16 @@
     letter-spacing: 1px;
     text-transform: uppercase;
 }
+
+@media screen and (max-width: 999px) {
+  .author-name {
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .author-name {
+    font-size: 8px;
+    line-height: 1;
+  }
+}

@@ -2,6 +2,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 120px 60.5px 120px;
-    min-height: 90px;
+    margin: 0 120px;
+    flex-grow: 1;
+}
+
+@media screen and (max-width: 660px) {
+  .header__container {
+    margin: 0 auto;
+    justify-content: space-around;
+  }
 }

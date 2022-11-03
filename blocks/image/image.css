@@ -1,0 +1,9 @@
+.image {
+  width: 100%;
+  transition: 0.8s;
+}
+
+.image:hover {
+  transform: translateY(10px);
+}
+

@@ -2,4 +2,25 @@
   margin: 0 110px 90px 110px;
   padding-bottom: 65px;
   border-bottom: 1px solid #e6e6e6;
+  display: flex;
+  justify-content: center;
 }
+
+@media screen and (max-width: 999px) {
+  .article-grid {
+   margin: 0 80px 60px 80px;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .article-grid {
+    margin: 0 50px 30px 50px;
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .article-grid {
+    margin: 0 20px 30px 20px;
+  }
+}
+

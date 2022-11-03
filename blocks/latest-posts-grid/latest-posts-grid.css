@@ -1,0 +1,7 @@
+.latest-posts-grid {
+  margin: 0 110px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 90px;
+  border-bottom: 1px solid #e6e6e6;
+}

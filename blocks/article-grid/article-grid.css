@@ -1,3 +1,5 @@
 .article-grid {
-  margin: 0 110px 156px 110px;
+  margin: 0 110px 90px 110px;
+  padding-bottom: 65px;
+  border-bottom: 1px solid #e6e6e6;
 }

@@ -1,0 +1,9 @@
+.footer__category-items {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  list-style-type: none;
+  width: 900px;
+  margin: 0;
+  padding: 0;
+}

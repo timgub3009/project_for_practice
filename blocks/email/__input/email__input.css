@@ -1,0 +1,9 @@
+.email__input {
+  padding: 18px 24px;
+  font-size: 10px;
+  line-height: 1.2;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #666;
+  flex-grow: 2;
+}

@@ -5,7 +5,7 @@
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__container/header__container.css);
-@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/logo/logo.css);
 @import url(../blocks/header/__menu-items/header__menu-items.css);
 @import url(../blocks/header/__menu-item/header__menu-item.css);
 
@@ -27,7 +27,34 @@
 @import url(../blocks/article-grid/__item/article-grid__item.css);
 @import url(../blocks/section-title/_theme/section-title_theme_article-grid.css);
 @import url(../blocks/image/_theme/image_theme_article-grid.css);
-@import url();
-@import url();
-@import url();
-@import url();
+
+@import url(../blocks/latest-posts-grid/latest-posts-grid.css);
+@import url(../blocks/latest-posts-grid/__items/latest-posts-grid__items.css);
+@import url(../blocks/article-gr);
+@import url(../blocks/image-caption/_theme/image-caption_theme_latest-posts.css);
+@import url(../blocks/image/_theme/image_theme_latest-posts-grid.css);
+@import url(../blocks/article-grid/__item/_theme/article-grid__item__theme_latest-posts-grid.css);
+@import url(../blocks/latest-posts-grid/__button/latest-posts-grid__button.css);
+
+@import url(../blocks/featured-posts/featured-posts.css);
+@import url(../blocks/featured-posts/__items/featured-posts__items.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__content/footer__content.css);
+@import url(../blocks/footer/__category-items/footer__category-items.css);
+@import url(../blocks/footer/__category-item/footer__category-item.css);
+@import url(../blocks/footer/__heading/footer__heading.css);
+@import url(../blocks/copyright-container/copyright-container.css);
+@import url(../blocks/copyright-container/__heading/copyright-container__heading.css);
+@import url(../blocks/email/__form/email__form.css);
+@import url(../blocks/footer/__category-items-container/footer__category-items-container.css);
+
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__forms/footer__forms.css);
+@import url(../blocks/nav/nav.css);
+
+@import url(../blocks/email/__input/email__input.css);
+@import url(../blocks/email/__button/email__button.css);
+
+@import url(../blocks/nav/_external/nav_external_info.css);
+@import url(../blocks/footer/__category-items/_external_info/footer__category-items_external_info.css);

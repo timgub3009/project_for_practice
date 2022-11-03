@@ -1,0 +1,8 @@
+.copyright-container__heading {
+  font-size: 10px;
+  line-height: 1.2;
+  letter-spacing: 1px;
+  color: #666;
+  text-transform: uppercase;
+  align-self: flex-end;
+}

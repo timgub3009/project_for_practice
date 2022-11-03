@@ -1,0 +1,11 @@
+.latest-posts-grid__button {
+  font-size: 10px;
+  line-height: 1.2;
+  letter-spacing: 1px;
+  padding: 21px 26px;
+  width: 205px;
+  align-self: center;
+  background-color: #fff;
+  border: 1px solid #000;
+  text-transform: uppercase;
+}

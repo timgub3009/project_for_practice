@@ -1,0 +1,10 @@
+.email__button {
+  font-size: 10px;
+  line-height: 1.2;
+  letter-spacing: 1px;
+  color: #fff;
+  padding: 24px;
+  background-color: #000;
+  text-transform: uppercase;
+  border: none;
+}

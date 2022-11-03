@@ -1,0 +1,5 @@
+.featured-posts {
+  display: flex;
+  flex-direction: column;
+  margin: 90px 110px 90px 110px;
+}

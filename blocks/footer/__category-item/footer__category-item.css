@@ -1,0 +1,8 @@
+.footer__category-item {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  margin-bottom: 15px;
+  font-size: 14px;
+  line-height: 1.7;
+}
